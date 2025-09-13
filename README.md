@@ -1,3 +1,1 @@
-### Hi there 👋
-
-# TEST
+Hi! I'm Anatoly Tarnavsky, a Senior Full Stack Engineer with 10+ years of experience building scalable distributed systems and cloud-native applications. Previously worked at Intel as a Senior Backend Developer, focusing on AI/ML infrastructure and Kubernetes-based solutions. You can [download my resume](https://anatoly.dev/Anatoly_Tarnavsky_CV.pdf) | [write me an email](mailto:anatolyt@gmail.com)
